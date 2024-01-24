@@ -17,7 +17,7 @@ Este é um exemplo simples de shell script, no entanto, há muitas opções que 
 #!/bin/bash
 ####################################
 #
-# Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+# Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões.
 #
 ####################################
 
