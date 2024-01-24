@@ -1,7 +1,7 @@
 #!/bin/bash
 ####################################
 #
-# Samba como servidor de arquivos.
+# Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões.
 #
 ####################################
 
